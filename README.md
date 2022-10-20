@@ -3,7 +3,7 @@
 ### By Chhakuli zingare
 
 
-## 🔗Live Link -: [QR-Code-Generator](https://seewhatyoutype-by-chhakuli.netlify.app/)
+## 🔗Live Link -: [QR-Code-Generator](https://qr-code-generator-by-chhakuli.netlify.app/)
  
 
 ---
